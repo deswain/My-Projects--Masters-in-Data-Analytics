@@ -1,0 +1,3 @@
+Source: https://ec.europa.eu/info/business-economy-euro/indicators-statistics/economic-databases/business-and-consumer-surveys/download-business-and-consumer-survey-data/time-series_en
+
+Dataset Name: industry_total_sa_nace2.xlsx
